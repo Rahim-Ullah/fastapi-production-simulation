@@ -112,8 +112,6 @@ It is a useful starting point for experimenting with production concepts before 
 
 ## Future Improvements
 
-Some natural next steps for this project include:
-
 - Add health-check and version endpoints
 - Introduce request and response models with Pydantic
 - Add automated tests with `pytest`
